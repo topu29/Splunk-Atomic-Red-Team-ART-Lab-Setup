@@ -26,6 +26,7 @@ Windows Server → Victim Machine + Forwarder + Sysmon + ART
 1.1 Download Splunk Universal Forwarder
 
 Download Splunk Universal Forwarder (UF) from the official Splunk website.
+![Sysmon Installation](images/UF_Download_1.png)
 
 1.2 Installation Steps
 Run the installer on the Windows (victim) machine
