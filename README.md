@@ -1,7 +1,7 @@
 # Splunk-Atomic-Red-Team-ART-Lab-Setup
 This is an assignment for course CSE 802: Information Security and Cryptography, Dhaka University-2026, PMICS Batch 6.
 
-🛡️ Splunk & Atomic Red Team (ART) Lab Setup
+                                          🛡️ Splunk & Atomic Red Team (ART) Lab Setup
 # 📌 Overview
 
 This project demonstrates the setup of a complete SOC (Security Operations Center) lab environment using Splunk, Sysmon, and Atomic Red Team (ART).
@@ -21,6 +21,8 @@ Prepare the environment for detection engineering
 Kali Linux → Splunk Indexer
 
 Windows Server → Victim Machine + Forwarder + Sysmon + ART
+
+![Sysmon Installation](images/Archi.png)
 
 # ⚙️ 1. Splunk Universal Forwarder Installation (Windows)
 1.1 Download Splunk Universal Forwarder
